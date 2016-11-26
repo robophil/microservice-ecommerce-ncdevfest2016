@@ -1,0 +1,23 @@
+{
+  "name": "microservice-ecommerce-ncdevfest2016",
+  "version": "1.0.0",
+  "description": "Sample app to demostrate microservice capability",
+  "main": "index.js",
+  "scripts": {
+    "test": "moncha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robophil/microservice-ecommerce-ncdevfest2016.git"
+  },
+  "author": "oghenerobo@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robophil/microservice-ecommerce-ncdevfest2016/issues"
+  },
+  "homepage": "https://github.com/Robophil/microservice-ecommerce-ncdevfest2016#readme",
+  "dependencies": {
+    "cote": "^0.9.2",
+    "express": "^4.14.0"
+  }
+}
