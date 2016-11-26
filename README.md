@@ -23,7 +23,8 @@ node microservice/app.js
 
 ## simulater request
 Simulate request at intervals to `/payment` on both platforms
-``bash
+
+```bash
 node index-mono.js
 node index-micro.js
 ```
